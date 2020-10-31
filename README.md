@@ -11,3 +11,9 @@
 - [x]  Logistic regression 
 - [ ]  Linear regression 
 - [ ]  Principal Component Analysis (PCA)
+
+#### Q. With traditional programming, the programmer typically inputs commands. With machine learning, the programmer inputs 
+- [ ]  supervised learning 
+- [x]  data 
+- [ ]  unsupervised learning 
+- [ ]  algorithms
