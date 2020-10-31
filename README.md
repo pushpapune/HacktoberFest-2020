@@ -23,3 +23,9 @@
 - [ ]  If the data is high quality, the algorithms will be easier to develop. 
 - [ ]  Low-quality data requires much more processing power than high-quality data. 
 - [x]  If the data is low quality, you will get inaccurate results.
+
+#### Q. You work for a large pharmaceutical company whose data science team wants to use unsupervised learning machine algorithms to help discover new drugs. What is an advantage to this approach? 
+- [ ]  You will be able to prioritize different classes of drugs, such as antibiotics. 
+- [ ]  You can create a training set of drugs you would like to discover. 
+- [x]  The algorithms will cluster together drugs that have similar traits. 
+- [ ]  Human experts can create classes of drugs to help guide discovery.
