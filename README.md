@@ -17,3 +17,9 @@
 - [x]  data 
 - [ ]  unsupervised learning 
 - [ ]  algorithms
+
+#### Q. Why is it important for machine learning algorithms to have access to high-quality data? 
+- [ ]  It will take too long for programmers to scrub poor data. 
+- [ ]  If the data is high quality, the algorithms will be easier to develop. 
+- [ ]  Low-quality data requires much more processing power than high-quality data. 
+- [x]  If the data is low quality, you will get inaccurate results.
